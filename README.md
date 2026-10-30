@@ -16,4 +16,4 @@ I'm interested in learning how to understand, analyze, and visualize data more e
 - Information Retrieval: Basic database management and indexing using Midos 6
 
 ### Links
-[My GitHub Profile](https://github.com/ulkuarsl)
+- 📊 [My Data Integration Labs](https://github.com/ulkuarsl/data-integration-labs)
